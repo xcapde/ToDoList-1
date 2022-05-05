@@ -18,7 +18,7 @@ L'aplicació permet generar una llista en la que s'hi poden afegir i eliminar ta
 
 ## ✅ OBJECTIUS
 
-Esperem tenir altres funcionalitats operatives properament:
+Estem treballant per presentar noves funcionalitats operatives properament:
 - Editar el contingut de cada tasca.
 - Canviar l'estat de cada tasca. 
 - Bloquejar una tasca per evitar canvis.
