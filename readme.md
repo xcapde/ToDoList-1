@@ -1,7 +1,5 @@
 # TO DO LIST APP
 
-Aplicació per crear una llista de tasques amb vàries funcionalitats.
-
 ## 📜 RESUM
 
 L'aplicació permet generar una llista en la que s'hi poden afegir i eliminar tasques.
