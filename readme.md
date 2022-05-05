@@ -37,4 +37,4 @@ Estem treballant per presentar noves funcionalitats operatives properament:
 
 
 ## AGRAÏMENTS
-Aquesta aplicació no hauria sigut possible sense l'ajuda i la paciència dels companys del meu equip i del nostre formador del Bootcamp, Sergi Virgili.
+Aquesta aplicació no hauria sigut possible sense l'ajuda i la paciència dels companys del meu equip i del nostre formador del Bootcamp.
