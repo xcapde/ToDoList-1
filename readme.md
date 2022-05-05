@@ -2,23 +2,23 @@
 
 Aplicació per crear una llista de tasques amb vàries funcionalitats.
 
-## RESUM
+## 📜 RESUM
 
 L'aplicació permet generar una llista en la que s'hi poden afegir i eliminar tasques.
 
-## TECNOLOGIES
+## 💻 TECNOLOGIES
 - HTML 5
 - CSS 3
 - JS ES6  VANILLA
 
-## TÈCNIQUES EMPRADES
+## ⚙️ TÈCNIQUES EMPRADES
 - Responsive Design.
 - Variables CSS.
 
-## ENLLAÇ
+## 🔗 ENLLAÇ
 [xcapde.github.io/ToDoList-1 ](http://https://xcapde.github.io/ToDoList-1/ "xcapde.github.io/ToDoList-1")
 
-## OBJECTIUS
+## ✅ OBJECTIUS
 
 Esperem tenir altres funcionalitats operatives properament:
 - Editar el contingut de cada tasca.
@@ -26,7 +26,7 @@ Esperem tenir altres funcionalitats operatives properament:
 - Cercar entre els elements de la llista,
 - Eliminar tot el contingut de la llista.
 
-## CAPTURES DE PANTALLA
+## 👁️‍🗨️ CAPTURES DE PANTALLA
 
 ###### PC
 ![Inici](/images/1%20PC%20default.png "Inici")
