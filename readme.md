@@ -21,6 +21,7 @@ L'aplicació permet generar una llista en la que s'hi poden afegir i eliminar ta
 Esperem tenir altres funcionalitats operatives properament:
 - Editar el contingut de cada tasca.
 - Canviar l'estat de cada tasca. 
+- Bloquejar una tasca per evitar canvis.
 - Cercar entre els elements de la llista,
 - Eliminar tot el contingut de la llista.
 
